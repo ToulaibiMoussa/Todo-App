@@ -19,6 +19,7 @@ html {
 
 body {
     min-height: 100vh;
+    min-height: 100dvh;
     padding: 10px;
     background-color: var(--background);
     display: flex;
@@ -158,3 +159,4 @@ input[type="checkbox"]:checked ~ .todo-text {
     color: var(--secondary-color);
 
 }
+
